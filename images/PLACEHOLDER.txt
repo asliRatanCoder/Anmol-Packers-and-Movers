@@ -1,0 +1,13 @@
+/* Placeholder for logo.png */
+/* Create a professional logo with company name */
+/* Recommended size: 200x200px */
+/* Transparent background (PNG format) */
+/* Colors: Use company brand colors */
+
+/* You can create a simple logo using:
+   - Canva.com (free)
+   - Logo.com
+   - Or hire a designer on Fiverr
+*/
+
+/* For now, you can use a text-based logo or company initials */
