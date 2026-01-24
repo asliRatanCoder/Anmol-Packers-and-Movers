@@ -2374,7 +2374,7 @@ html[data-theme="dark"] .footer-col ul li a:hover {
 
 /* Breadcrumb */
 html[data-theme="dark"] .breadcrumb {
-    background: var(--bg-secondary);
+    /* background: var(--bg-secondary); */
     color: var(--text-primary);
 }
 
